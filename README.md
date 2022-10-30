@@ -4,7 +4,8 @@ A simple discord bot that handles messages from the client. The client sends com
 
 ## Important python packages
 
+- discord
+- dotenv
+- youtube_dl
 - ffmpeg-python
 - PyNaCl
-- youtube_dl
-- dotenv
