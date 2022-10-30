@@ -31,5 +31,5 @@ A simple discord bot that handles messages from the client. The client sends com
 8. Write the necessary commands to communicate with the bot
     - type in discord channel ```$join``` (bot will join your voice channel)
     - type ```$play MUSIC_URL``` e.g. *$play https://www.youtube.com/watch?v=UT8cmozrUFw* (bot will play music)
-    - u can pause or resume music bot if u want typing **$resume** or **$ause**
-    - u can disconnect bot typing **$disconnect**
+    - u can pause or resume music bot if u want typing ```$resume``` or ```$pause```
+    - u can disconnect bot typing ```$disconnect```
