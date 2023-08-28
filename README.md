@@ -33,3 +33,5 @@ A simple discord bot that handles messages from the client. The client sends com
     - type ```$play MUSIC_URL``` e.g. *$play https://www.youtube.com/watch?v=UT8cmozrUFw* (bot will play music)
     - u can pause or resume music bot if u want typing ```$resume``` or ```$pause```
     - u can disconnect bot typing ```$disconnect```
+
+Enjoy your music with bot :D
